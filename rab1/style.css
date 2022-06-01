@@ -1,0 +1,10 @@
+body{
+	margin: 0; 
+	padding: 0; 
+	font: 16px/24px;
+	background: #f8f8f8;
+	color:black;
+	}
+.left div {
+  float: left;
+}

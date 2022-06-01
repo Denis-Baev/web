@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+ <head>
+ <title>Диваны от производителя</title>
+ <meta charset = "UTF-8">
+ <link rel="shortcut icon" type="imge/x-icon" href="images/icon.png">
+ <link rel="stylesheet" href="style.css" media="all">
+ </head>
+ <body>
+ <h1 align="center"> <big>Sofa World</big></h1>
+ <h2 style="margin-left:30px;">
+ Лучшие диваны
+ <br>
+ для вашего интерьера
+ </h2>
+ <div style="margin-top: 80px;">
+ <p align="center"  >
+	
+			<img src="images/divan1.jpg" alt="Серый диван" width="300" height="150" border="3"  >
+			<img src="images/divan2.jpg" alt="Светло серый диван" width="300" height="150" border="3"  >
+			<img src="images/divan3.jpg" alt="Синий диванчик)))" width="300" height="150" border="3"  >
+			<h4>
+			<div class="left">
+			<div style="margin-left:240px;"> Диван "КОМФОРТ 19" 50 000₽</div>
+			<div style="margin-left:100px;"> Диван CHEPERS PESARO <br>GRAY 32 000₽  </div>
+			<div style="margin-left:200px;">Диван FLEPERS LION 55 375₽</div>
+			</div>
+			</h4>
+
+ </p>
+ 
+ </div>
+ <p align="bottom">
+ <footer style="background-color: black; margin-top: 400px;" align="center">
+ <font color="white">Copyright © Sofa World 2022  Все права защищены</font>
+ </footer >
+ </p>
+ </body>
+ 
+</html>
